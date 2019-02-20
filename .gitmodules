@@ -2,3 +2,8 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 12.0
+
+[submodule "OCA/project/tree/12.0/project_stage_state"]
+	path = OCA/project/tree/12.0/project_stage_state
+	url = git@github.com:OCA/project.git
+	branch = 10.0
